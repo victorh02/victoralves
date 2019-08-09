@@ -31,6 +31,6 @@ console.log('Nome' + nome + ' idade: '+ idade);
 console.log(`Nome: ${nome} idade ${idade}`)
 
 
-// Atualizando no github
+// Atualizando no githubs
 // Outro comentário
 // Ambiente de desenvolvimento
